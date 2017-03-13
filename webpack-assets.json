@@ -1,0 +1,18 @@
+{
+  "javascript": {
+    "bundle": "http://localhost:8001/dist/client/bundle.js",
+    "vendor": "http://localhost:8001/dist/client/vendor.js",
+    "manifest": "http://localhost:8001/dist/client/manifest.js"
+  },
+  "styles": {},
+  "assets": {
+    "./src/client/containers/App.scss": {
+      "app": "App__app__1zg6iz8I",
+      "_style": ".App__app__1zg6iz8I {\n  background-color: red; }\n"
+    },
+    "./src/client/containers/Home.scss": {
+      "scolor": "Home__scolor__175XcfIw",
+      "_style": ".Home__scolor__175XcfIw {\n  color: yellow;\n  font-size: 40px;\n  font-weight: 700; }\n"
+    }
+  }
+}
